@@ -1,0 +1,26 @@
+.notfound{
+  padding-top: 20px;
+  margin: 50px auto;
+  width: 651px;
+  height: 250px;
+  justify-content: center;
+  align-items: center;
+  background-color: aqua;
+}
+.notfound-code{
+  text-align: center;
+  color: blueviolet;
+}
+.notfound-message{
+  text-align: center;
+  color: black;
+}
+.notfound-desc{
+  text-align: center;
+  color: black;
+}
+.go-to-home{
+  text-align: center;
+  margin-left: 269px;
+  margin-top: 20px;
+}

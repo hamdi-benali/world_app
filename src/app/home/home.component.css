@@ -1,0 +1,13 @@
+.home-div{
+  margin: 0 auto;
+  background-color: #0095ff;
+}
+.welcome-title{
+  color: white;
+  text-align: center;
+}
+.home-img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}

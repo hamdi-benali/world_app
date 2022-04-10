@@ -1,0 +1,16 @@
+.spacer{
+    height: 5%;
+}
+.table{
+    width: 80%;
+    margin-left: 10%;
+}
+.head{
+  text-align: center;
+}
+.cnt-name{
+  text-align: center;
+}
+.country{
+  text-align: center;
+}
